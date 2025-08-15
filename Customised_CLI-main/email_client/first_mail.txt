@@ -1,0 +1,2 @@
+hi,
+this first mail from cli
